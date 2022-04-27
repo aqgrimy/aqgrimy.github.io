@@ -1,0 +1,16 @@
+body {
+  background: linear-gradient(to left, #8f4c7b, #e1b070);
+  }
+  
+  .card-body {
+    background: rgba(152, 72, 152, 0.329);
+    border-radius: 25px;
+}
+
+  .input-group-addon, h1, h5{
+  background: gray;
+  color: white;
+  font-size: 20px;
+  }
+  
+  
